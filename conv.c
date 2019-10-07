@@ -12,7 +12,7 @@ int main()
      while(a[i]!='\0')
      {
          b=a[i];
-         num=num*10+(b-48);
+         num=num*10+(b-48);     //conversion from ascii value to number
          printf("b=%d\n",b);
          i++;
      }
