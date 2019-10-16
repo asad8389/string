@@ -1,3 +1,3 @@
 #string
 
-this folder contains different string programs in C language.
+this folder contains different programs of string in C language.
